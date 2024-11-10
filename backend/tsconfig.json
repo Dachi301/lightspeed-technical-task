@@ -109,6 +109,7 @@
     "outDir": "./dist",
     "paths": {
       "@services/*": ["./src/services/*"],
+      "@controllers/*": ["./src/controllers/*"],
       "@utils/*": ["./src/utils/*"]
     }
   }
